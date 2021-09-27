@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my personal web page
 
-You can use the [editor on GitHub](https://github.com/Mohammed-Hssein/mhssein/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Data science engineer and machine learning master level research student at **ENS Paris-Saclay**. I graduated recently from **École Centrale de Lille**. I am poursuing a master of research in machine learning known in France to be the ***"MVA : Mathématiques, Vision, Apprentissage"***, or in english ***"Mathematics, Vision, and Learning"***.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
