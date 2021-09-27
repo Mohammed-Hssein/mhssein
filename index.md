@@ -6,10 +6,12 @@ I am a Data science engineer and machine learning master level research student 
 
 ### Experience
 
-> Fundamental Machine Learning
+> **Fundamental Machine Learning**
 
+I worked for 8 months on a theritical machine learning subject, which is the problem of `Early Stopping`.
+Early stopping refers to in which time one should interupt iterative algorithms such as gradient descent, or its variants (as the momentum, Nestorov, Adam, ... etc), so that we can guarantee at the same time good fit to the data, and keep high generalization capabilities (Bias-Variance dilemma !). The phenomenon of early stopping acts therfore as an *algorithmic* regularization.
 
-> Applied Machine Learning
+> **Applied Machine Learning**
 
 
 
