@@ -8,8 +8,9 @@ I am a Data science engineer and machine learning master level research student 
 
 > **Fundamental Machine Learning**
 
-I worked for 8 months on a theritical machine learning subject, which is the problem of `Early Stopping`.
-Early stopping refers to in which time one should interupt iterative algorithms such as gradient descent, or its variants (as the momentum, Nestorov, Adam, ... etc), so that we can guarantee at the same time good fit to the data, and keep high generalization capabilities (Bias-Variance dilemma !). The phenomenon of early stopping acts therfore as an *algorithmic* regularization.
+I worked for 8 months at Inria Lille on a part time internship, on a theritical machine learning subject, which is the problem of `Early Stopping`.
+
+Early stopping refers the time in which one should interupt iterative algorithms such as gradient descent, stochastic gradient descent or its variants (as the momentum, Nestorov, Adam, ... etc), so that we can guarantee at the same time good fit to the data, and keep high generalization capabilities (Bias-Variance dilemma !). The phenomenon of early stopping acts therfore as an *algorithmic* regularization. In neural networks, the problems of local minimums, are often encountred in practice, and there are high chances to stuck in a one as the process progresses. Untill now oracle like stopping rules are widely used in practice. However, for such rules, there are no mathematical guarantess for stopping at the *right time* as the loss landscape is not convex in general. This is perhaps why in almost all deep learning framworks as tensorflow, keras, pytorch, you have to set a patience parameter before to stop. The research about this topic is still ongoing. You can see this [presentation](mohammed-hssein.github.io/presentation.pdf) for a short introduction. 
 
 > **Applied Machine Learning**
 
