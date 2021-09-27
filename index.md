@@ -32,5 +32,5 @@ Manifold learning has become more and more a point of interest in machine learni
 ### Interests
 
 
-I am interested in Federated learning, Reinforcement learning and Generative modeling.
+I am interested in **Federated learning**, **Reinforcement learning** and **Generative modeling**.
 
