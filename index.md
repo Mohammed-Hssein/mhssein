@@ -17,7 +17,11 @@ Early stopping refers the time in which one should interupt iterative algorithms
 
 ---
 
-> **Applied Machine Learning**
+
+```
+Applied Machine Learning
+```
+
 
 I have worked on many applied deep learning problems : 
 
