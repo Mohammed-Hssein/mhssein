@@ -6,7 +6,7 @@ I am a Data science engineer and machine learning master level research student 
 
 ### Experience
 
--**Fundamental Machine Learning**
+> **Fundamental Machine Learning**
 
 ***`Early stopping for deep learning`***
 
@@ -15,7 +15,7 @@ Early stopping refers the time in which one should interupt iterative algorithms
 
 ---
 
--**Applied Machine Learning**
+> **Applied Machine Learning**
 
 I have worked on many applied deep learning problems : 
 
@@ -27,7 +27,6 @@ Flight search is a complex process. All starts with a request *(Origin --> Desti
 
 Manifold learning has become more and more a point of interest in machine learning, ans especially in computer vision. Indeed, gesture recognition, Skeleton recognition, ... and many problems are learning problems where the data relies on a mathematical manifolds as for instance Grasmann manifold, SDP manifold, Orthonormal manifold, ...etc. Convolutional neural networks have been doing great jos in recognition problems, or even in generative modeling, however, sur such manifolds, the architecture has many limitations. The work of this internship, was to adabt, and improve a neural network designed for learning on Grassmannian manifolds. The idea consists on chaging the convolutions with other mathematical transformations and decompositions as the SVD, RU, ...etc. check the report [here](https://mohammed-hssein.github.io/internship-manifold.pdf) and the code [here](https://github.com/Mohammed-Hssein/GrNet).
 
----
 
 ***`Miscellaneous`***
 
