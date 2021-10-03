@@ -6,9 +6,9 @@ I am a Data science engineer and machine learning master level research student 
 
 ### Experience
 
-```
-> **Fundamental Machine Learning**
-```
+**```
+ Fundamental Machine Learning**
+```**
 
 ***`Early stopping for deep learning`***
 
