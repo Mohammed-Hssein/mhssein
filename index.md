@@ -6,8 +6,8 @@ I am a Data science engineer and machine learning master level research student 
 
 ### Experience
 
-```html
- <h2>Fundamental Machine Learning</h2>
+```
+Fundamental Machine Learning
 ```
 
 ***`Early stopping for deep learning`***
