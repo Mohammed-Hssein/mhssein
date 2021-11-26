@@ -1,6 +1,6 @@
 ## Welcome to my personal web page
 
-I am a Data science engineer and machine learning master level research student at [**ENS Paris-Saclay**](https://ens-paris-saclay.fr/). I graduated recently from [**École Centrale de Lille**](https://centralelille.fr/) as a data scientist engineer. I am poursuing a master of research in machine learning known in France to be the ***"MVA : Mathématiques, Vision, Apprentissage"***, or in english ***"Mathematics, Computer Vision, and Machine Learning"***. Please find [here](https://www.master-mva.com/) the programm.
+I am a Data scientist and machine learning master level research student at [**ENS Paris-Saclay**](https://ens-paris-saclay.fr/). I graduated recently from [**École Centrale de Lille**](https://centralelille.fr/) as a data science engineer. I am poursuing a master of research in machine learning known in France to be the ***"MVA : Mathématiques, Vision, Apprentissage"***, or in english ***"Mathematics, Computer Vision, and Machine Learning"***. Please find [here](https://www.master-mva.com/) the programm.
 
 
 
