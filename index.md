@@ -29,14 +29,10 @@ I have worked on many applied deep learning problems :
 
 Flight search is a complex process. All starts with a request *(Origin --> Destination)* pair at a specific date. This step triggers a *geographical routes exploration* process, where we explore all the possible paths between the origin and the destination which triggers after the process of linking the routes with the airline carriers, and at the end checking the availability and the pricing to form what we call a travel solution. However, the route exploration process is quite complex. Indeed, we can show that the number of requests can reach billions for each pair, making the suggested possibilities hard to price in real time. The idea was to create an algorithm to rank the routes, and suggest only those that will lead to potential cheapest travel solutions at the pricing server. The machine learning model is an innovative complex deep learning model. For reasons of confidentiality, we can only describe some themes we have been inspiring from : ***Sequence embeddings, attributed embeddings, Residual nets, ...etc***
 
-***`Grassmanian deep learning`***
-
-Manifold learning has become more and more a point of interest in machine learning, ans especially in computer vision. Indeed, gesture recognition, Skeleton recognition, ... and many problems are learning problems where the data relies on a mathematical manifolds as for instance Grasmann manifold, SDP manifold, Orthonormal manifold, ...etc. Convolutional neural networks have been doing great jos in recognition problems, or even in generative modeling, however, sur such manifolds, the architecture has many limitations. The work of this internship, was to adabt, and improve a neural network designed for learning on Grassmannian manifolds. The idea consists on chaging the convolutions with other mathematical transformations and decompositions as the SVD, RU, ...etc. check the report [here](https://mohammed-hssein.github.io/internship-manifold.pdf) and the code [here](https://github.com/Mohammed-Hssein/GrNet).
-
 
 ***`Miscellaneous`***
 
-Deep learning architectures as **Restricted Boltzmann Machines** and **Inception**. More details about the code in my Github repositories.
+Deep learning architectures as **Restricted Boltzmann Machines** and **Inception**, **VGG-like auto-encoder** More details about the code in my Github repositories.
 
 ---
 
