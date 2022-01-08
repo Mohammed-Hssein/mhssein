@@ -39,5 +39,4 @@ Deep learning architectures as **Restricted Boltzmann Machines** and **Inception
 ### Interests
 
 
-I am interested in **Federated learning**, **Reinforcement learning**, **computer vision**, **Generative modeling**.
-
+I am interested in **Federated learning**, **Reinforcement learning**, **Computer vision**, **Generative modeling**.
