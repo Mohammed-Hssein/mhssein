@@ -13,7 +13,7 @@ Early stopping refers the time in which one should interupt iterative algorithms
 
 
 * **Applied machine learning**
-  - ***Self supervised methods for low level vision*** _Advisors [Josef Sivic](https://scholar.google.com/citations?user=NCtKHnQAAAAJ&hl=fr)_, with [Soufiane Fafe](https://sfafe.github.io/).
+  - ***Self supervised methods for low level vision*** with with [Soufiane Fafe](https://sfafe.github.io/). _Advisors [Josef Sivic](https://scholar.google.com/citations?user=NCtKHnQAAAAJ&hl=fr)_.
 School project about self supervised methods for image denoising. Main algorithms studied are [Noise2Noise](https://arxiv.org/abs/1803.04189), leading to [Noise2Void](https://arxiv.org/abs/1811.10980). Report for this school project [here](https://github.com/Mohammed-Hssein/mohammed-hssein.github.io/blob/gh-pages/recvis_project.pdf)
 
   - ***Itinerary search optimization*** _Advisors [Michael Defoin-Platel](https://scholar.google.fr/citations?user=66FtOykAAAAJ&hl=fr)_. 
