@@ -29,4 +29,4 @@ Flight search is a complex process. All starts with a request *(Origin --> Desti
 ### Interests
 
 
-I am interested in **Federated learning**, **Reinforcement learning**, **Computer vision**, **Generative modeling**.
+I am interested in **Reinforcement learning**, **Computer vision**, **Generative modeling**.
