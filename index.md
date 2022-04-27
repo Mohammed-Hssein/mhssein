@@ -25,12 +25,10 @@ Flight search is a complex process. All starts with a request *(Origin --> Desti
 
   - ***Anomaly detection in time series using LSTM networks*** with [Soufiane Fafe](https://sfafe.github.io/). School project about Anomaly detection in time series making use of stacked LSTM architecture. [Report](https://mohammed-hssein.github.io/TS_Project.pdf), and [presentation](https://mohammed-hssein.github.io/time_series_presentation.pdf)
 
-  - ***VGG auto encoder for birds species classification***
+  - ***VGG auto encoder for birds species classification*** MVA computer vision project. [Code](https://github.com/Mohammed-Hssein/vgg-ae) 
   
-  - ***Mini-inception***
-  
-  - ***Restricted Boltzmann machines***
- 
+  - ***Mini-inception*** Personal work. [Code](https://github.com/Mohammed-Hssein/Mini-inception)
+   
  
 ---
 
