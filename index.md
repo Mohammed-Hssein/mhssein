@@ -13,17 +13,25 @@ Early stopping refers the time in which one should interupt iterative algorithms
 
 
 * **Applied machine learning**
-  - ***Self supervised methods for low level vision*** with with [Soufiane Fafe](https://sfafe.github.io/). _Advisors [Josef Sivic](https://scholar.google.com/citations?user=NCtKHnQAAAAJ&hl=fr)_.
+
+  - ***3D Points Cloud compression with Deep learning*** Ongoing internhip. 
+
+
+  - ***Self supervised methods for low level vision*** with [Soufiane Fafe](https://sfafe.github.io/). _Advisors [Josef Sivic](https://scholar.google.com/citations?user=NCtKHnQAAAAJ&hl=fr)_.
 School project about self supervised methods for image denoising. Main algorithms studied are [Noise2Noise](https://arxiv.org/abs/1803.04189), leading to [Noise2Void](https://arxiv.org/abs/1811.10980). Report for this school project [here](https://mohammed-hssein.github.io/recvis_project.pdf)
 
   - ***Itinerary search optimization*** _Advisors [Michael Defoin-Platel](https://scholar.google.fr/citations?user=66FtOykAAAAJ&hl=fr)_. 
 Flight search is a complex process. All starts with a request *(Origin --> Destination)* pair at a specific date. This step triggers a *geographical routes exploration* process, where we explore all the possible paths between the origin and the destination which triggers after the process of linking the routes with the airline carriers, and at the end checking the availability and the pricing to form what we call a travel solution. However, the route exploration process is quite complex. Indeed, we can show that the number of requests can reach billions for each pair, making the suggested possibilities hard to price in real time. The idea was to create an algorithm to rank the routes, and suggest only those that will lead to potential cheapest travel solutions at the pricing server. The machine learning model is an innovative complex deep learning model. For reasons of confidentiality, we can only describe some themes we have been inspiring from: ***Sequence embeddings, attributed embeddings, Residual nets, ...etc***
+
+  - ***Anomaly detection in time series using LSTM networks*** with [Soufiane Fafe](https://sfafe.github.io/). School project about Anomaly detection in time series making use of stacked LSTM architecture. [Report](https://mohammed-hssein.github.io/TS_Project.pdf), and [presentation](https://mohammed-hssein.github.io/time_series_presentation.pdf)
 
   - ***VGG auto encoder for birds species classification***
   
   - ***Mini-inception***
   
   - ***Restricted Boltzmann machines***
+ 
+ 
 ---
 
 ### Interests
