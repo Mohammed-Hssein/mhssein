@@ -1,6 +1,6 @@
 # Welcome to my personal web page
 
-I am a Data scientist and machine learning enthusiast. I graduated from [**École Centrale de Lille**](https://centralelille.fr/) as a data science engineer. I also have a master of science in applied mathematics and machine learning from [**ENS Paris-Saclay**]. Please find [here](https://www.master-mva.com/) the master courses.
+I am a Data scientist and machine learning enthusiast. I graduated from [**École Centrale de Lille**](https://centralelille.fr/) as a data science engineer. I also have a master of science in applied mathematics and machine learning from [**ENS Paris-Saclay**](https://ens-paris-saclay.fr/). Please find [here](https://www.master-mva.com/) the master courses.
 
 
 
